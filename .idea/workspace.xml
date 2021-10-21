@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9207e927-6f0d-4a3d-8c1f-29853e58c467" name="Default Changelist" comment="" />
+    <list default="true" id="9207e927-6f0d-4a3d-8c1f-29853e58c467" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/kafka-avro-two/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-avro-two/src/main/java/io/m9rcy/kafka/BusinessDomainService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-avro-two/src/main/java/io/m9rcy/kafka/KafkaConsumerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-avro-two/src/main/java/io/m9rcy/kafka/KafkaConsumerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-avro-two/src/main/java/io/m9rcy/kafka/KafkaProducerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-avro-two/src/main/java/io/m9rcy/kafka/KafkaProducerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-avro-two/src/main/java/io/m9rcy/kafka/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-avro-two/src/main/java/io/m9rcy/kafka/ProducerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-avro-two/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-avro-two/src/main/resources/avro/person.avsc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,9 +57,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="270" y="38" key="new project wizard" timestamp="1634812485211">
-      <screen x="0" y="23" width="1280" height="716" />
+    <state x="270" y="38" key="new project wizard" timestamp="1634840406577">
+      <screen x="0" y="23" width="1280" height="714" />
     </state>
+    <state x="270" y="38" key="new project wizard/0.23.1280.714@0.23.1280.714" timestamp="1634840406577" />
     <state x="270" y="38" key="new project wizard/0.23.1280.716@0.23.1280.716" timestamp="1634812485211" />
   </component>
 </project>

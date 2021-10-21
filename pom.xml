@@ -8,5 +8,6 @@
   <name>kafka-playground</name>
   <modules>
     <module>kafka-avro</module>
+    <module>kafka-avro-two</module>
   </modules>
 </project>
